@@ -21,11 +21,11 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="/2017/11/kingfisher-nature-branch.html"}
-if(x=="2"){xxx="/2017/11/christmas-new-year-s-eve-postcard.html"}
-if(x=="3"){xxx="/2017/11/spices-jar-kitchen-cooking-wooden.html"}
-if(x=="4"){xxx="/2017/11/supercar-interior-automobile-car.html"}
-if(x=="5"){xxx="/2017/11/truck-heavy-duty-tractor-transport.html"}a_to_ve[i].href="https://file-safe.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="/2017/11/seek-instant-incredible-solution-for.html"}
+if(x=="2"){xxx="/2017/11/to-seek-instant-help-related-to-delta.html"}
+if(x=="3"){xxx="//2017/11/self-driving-trucks-in-shipping-industry.html"}
+if(x=="4"){xxx="/2017/11/how-to-transition-into-digital-tracking.html"}
+if(x=="5"){xxx="/2017/11/florida-business-voip-provider-reaches.html"}a_to_ve[i].href="https://file-safe.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
